@@ -1,0 +1,55 @@
+- class_name: 友情链接
+  class_desc: 搭建博客过程中借鉴的一些网站，以及一些优秀的博客。
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: Hexo官网
+
+    - name: butterfly.js.org
+      link: https://butterfly.js.org/
+      avatar: https://butterfly.js.org/img/avatar.png
+      descr: butterfly官方主题文档
+
+    - name: Butterfly主题美化教程
+      link: https://butterfly.zhheo.com/
+      avatar: https://butterfly.zhheo.com/favicon.png
+      descr: Butterfly主题美化教程
+
+    - name: 偷掉月亮
+      link: https://moonshuo.cn/
+      avatar: https://moonshuo.cn/img/avatar.gif
+      descr: 偷掉月亮
+
+    - name: 行码棋
+      link: https://wyqz.top/
+      avatar: https://wyqz.top/medias/logo.png
+      descr: 行码棋
+
+    - name: ilobos
+      link: https://luobs.cn/
+      avatar: https://img-blog.csdnimg.cn/20210313122054101.png
+      descr: ilobos
+
+- class_name: Hexo外部配置
+  class_desc: 外部的一些公共网站，使博客功能更完整
+  link_list:
+    - name: LeanCloud
+      link: https://www.leancloud.cn/
+      avatar: https://gravatar.tapglb.com/avatar/2a7db7447f24fd4bc3eb88faaaf4dbf5?s=50&d=retro
+      descr: Valine评论系统
+
+    - name: busuanzi（不蒜子）
+      link: http://busuanzi.ibruce.info/
+      avatar: http://busuanzi.ibruce.info/images/garlic.png
+      descr: 统计网站访问量
+
+    - name: 和风天气开发平台
+      link: https://widget.qweather.com/
+      avatar: https://widget.qweather.com/assets/images/wi-colorful-banner.png
+      descr: butterfly添加天气组件
+
+    - name: tinypng
+      link: https://tinypng.com/
+      avatar: https://tinypng.com/images/image-resizing-thumb.png
+      descr: 图片压缩
