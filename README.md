@@ -1,1 +1,2 @@
-MyBlog
+# MyHexoBlog
+我的博客
