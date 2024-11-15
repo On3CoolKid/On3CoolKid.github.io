@@ -1,5 +1,5 @@
 ---
-title: typora的基本使用方法1（cjj笔记）
+title: typora的基本使用方法1
 date: 2022-11-24 21:58:52
 tags: 
     - typora
